@@ -35,10 +35,10 @@
         "name": "TailwindCSS",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
     },
-    {
+  /* <!-- {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
+    }, 
     {
         "name": "Sass",
         "icon": "https://img.icons8.com/color/48/000000/sass.png"
@@ -94,7 +94,7 @@
     {
         "name": "Heroku",
         "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
+    },*/
     {
         "name": "Netlify",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
