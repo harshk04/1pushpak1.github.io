@@ -6,7 +6,40 @@
     
     
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+        "name": "C#",
+        "icon": "https://icons8.com/icon/45490/c-sharp-logo-2"
+    },
+    
+     {
+        "name": "C",
+        "icon": "https://icons8.com/icon/40670/c-programming"
+    },
+    
+     {
+        "name": "PYTHON",
+        "icon": "https://icons8.com/icon/13441/python"
+    },
+    
+     {
+        "name": "Respbian",
+        "icon": "https://icons8.com/icon/TpULddJc4gTh/c%2B%2B"
+    },
+    
+     {
+        "name": "Office 365",
+        "icon": "https://icons8.com/icon/37619/office-365"
+    },
+     {
+        "name": "AWS",
+        "icon": "https://icons8.com/icon/33039/amazon-web-services"
+    },
+     {
+        "name": "Azure",
+        "icon": "https://icons8.com/icon/81727/azure"
+    },
+     {
+        "name": "Google CLoud",
+        "icon": "https://icons8.com/icon/WHRLQdbEXQ16/google-cloud"
+    },
+    
 ]
