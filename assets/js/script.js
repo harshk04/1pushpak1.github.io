@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Pushpak";
-            $("#favicon").attr("href", "assets/images/favicon1.png");
+            $("#favicon").attr("href", "/assets/images/favicon1.png");
         }
         else {
             document.title = "Come Back To Portfolio";
