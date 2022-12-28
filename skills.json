@@ -66,6 +66,21 @@
         "icon": "https://img.icons8.com/color/48/null/adobe-after-effects--v1.png"
     },
     
+    {
+        "name": "Visual Studio",
+        "icon": "https://img.icons8.com/color/48/null/visual-studio--v1.png"
+    },
+    
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/null/visual-studio-code-2019.png"
+    },
+    
+    {
+        "name": "Xcode",
+        "icon": "https://img.icons8.com/color/48/null/xcode.png"
+    },
+    
      {
         "name": "Figma",
         "icon": "https://img.icons8.com/fluency/48/null/figma.png"
