@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "name": "Student Management",
+    "desc": "Basic Student management program for schools using c++ only backend without UI.",
+    "image": "student",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://github.com/1pushpak1/Student-Management",
+      "code": "https://github.com/1pushpak1/Student-Management"
     }
   },
   {
