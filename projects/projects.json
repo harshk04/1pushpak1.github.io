@@ -50,30 +50,30 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "name": "MoNo ChatBot",
+    "desc": "AI ChatBot buit using C#, which can answer to all the questions..",
+    "image": "mono",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://github.com/1pushpak1",
+      "code": "https://github.com/1pushpak1"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "Hostel Attendence",
+    "desc": "Python integrated with Biometric machine and connected to app which give the real time attendence. .",
+    "image": "hostel",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://github.com/1pushpak1",
+      "code": "https://github.com/1pushpak1"
     }
   },
   {
     "name": "React-Projects",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
     "image": "reactprojects",
-    "category": "mern",
+    "category": "mern"
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
       "code": "https://github.com/jigar-sable/React-Projects"
