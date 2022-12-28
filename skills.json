@@ -7,39 +7,67 @@
     
     {
         "name": "C#",
-        "icon": "https://icons8.com/icon/45490/c-sharp-logo-2"
+        "icon": "https://img.icons8.com/color/48/null/c-programming.png"
     },
     
      {
         "name": "C",
-        "icon": "https://icons8.com/icon/40670/c-programming"
+        "icon": "https://img.icons8.com/color/48/null/c-programming.png"
     },
     
      {
         "name": "PYTHON",
-        "icon": "https://icons8.com/icon/13441/python"
+        "icon": "https://img.icons8.com/color/48/null/python--v1.png"
     },
     
      {
         "name": "Respbian",
-        "icon": "https://icons8.com/icon/TpULddJc4gTh/c%2B%2B"
+        "icon": "https://img.icons8.com/color/48/null/raspberry-pi.png"
     },
     
      {
         "name": "Office 365",
-        "icon": "https://icons8.com/icon/37619/office-365"
+        "icon": "https://img.icons8.com/color/48/null/office-365.png"
     },
      {
         "name": "AWS",
-        "icon": "https://icons8.com/icon/33039/amazon-web-services"
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
      {
         "name": "Azure",
-        "icon": "https://icons8.com/icon/81727/azure"
+        "icon": "https://img.icons8.com/color/48/null/azure-1.png"
     },
      {
-        "name": "Google CLoud",
-        "icon": "https://icons8.com/icon/WHRLQdbEXQ16/google-cloud"
-    }
+        "name": "Google Cloud",
+        "icon": "https://img.icons8.com/color/48/null/google-cloud.png"
+    },
+  
+       {
+        "name": "Selenium",
+        "icon": "https://img.icons8.com/officel/16/null/selenium-test-automation.png"
+    },
     
+     {
+        "name": "Github",
+        "icon": "https://img.icons8.com/sf-black-filled/64/000000/github.png"
+    },
+     {
+        "name": "Adobe PS",
+        "icon": "https://img.icons8.com/color-glass/48/null/adobe-photoshop.png"
+    },
+    
+     {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/fluency/48/null/canva.png"
+    },
+    
+     {
+        "name": "After effects",
+        "icon": "https://img.icons8.com/color/48/null/adobe-after-effects--v1.png"
+    },
+    
+     {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/fluency/48/null/figma.png"
+    }
 ]
