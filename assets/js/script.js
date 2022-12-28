@@ -60,18 +60,18 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Pushpak";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/favicon1.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "/assets/images/favhand.png");
+            $("#favicon").attr("href", "/assets/images/favicon1.png");
         }
     });
 
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["C++ development", "Artificial Intelligence"],
+    strings: ["C++ development", "Artificial Intelligence", "Cloud Computing"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
