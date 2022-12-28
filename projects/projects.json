@@ -80,13 +80,13 @@
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
+    "name": "Neural Network CAR",
+    "desc": "Work on progress.",
+    "image": "car",
     "category": "mern",
     "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+      "view": "#",
+      "code": "#"
     }
   },
   {
