@@ -90,13 +90,13 @@
     }
   },
   {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
+    "name": "Wait For Next",
+    "desc": "Wait......",
+    "image": "wait",
     "category": "mern",
     "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      "view": "#",
+      "code": "#"
     }
   },
   {
